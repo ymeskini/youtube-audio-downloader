@@ -1,0 +1,9 @@
+{
+  "name": "yt-convert-mp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ytdl-core": "^4.11.2"
+  }
+}
